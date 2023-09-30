@@ -51,6 +51,10 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
+### Learn:
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+
+
 <br>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lui5ib&langs_count=10&theme=tokyonight&layout=compact" alt="lui5ib :: Top Langs" /></p>
