@@ -34,10 +34,10 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 
 ### Data Analytics:
 ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBi)
-![Pandas](https://img.shields.io/badge/-Python-000?&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Python-000?&logo=Numpy)
-![Matplotlib](https://img.shields.io/badge/-Python-000?&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Python-000?&logo=Seaborn)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
 
 ### Misc tools:
 &emsp;
