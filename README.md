@@ -59,7 +59,7 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 
 ### Learn:
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-![VueJS](https://img.shields.io/badge/-Vue-000?&logo=JavaScript)
+![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=JavaScript)
 
 
 <br>
