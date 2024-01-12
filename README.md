@@ -30,14 +30,14 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 
 ### Backend development:
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=JavaScript)
 
 ### Data Analytics:
 ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBi)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Python)
 
 ### Misc tools:
 &emsp;
@@ -53,7 +53,6 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 
 ### Databases:
 &emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
@@ -72,6 +71,7 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 
 
 <!--
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lui5ib&theme=algolia)
 
