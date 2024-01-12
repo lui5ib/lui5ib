@@ -32,6 +32,13 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
 
+### Data Analytics:
+![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBi)
+![Pandas](https://img.shields.io/badge/-Python-000?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Python-000?&logo=Numpy)
+![Matplotlib](https://img.shields.io/badge/-Python-000?&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Python-000?&logo=Seaborn)
+
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -42,7 +49,7 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![TaillwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ![Django](https://img.shields.io/badge/-Python-000?&logo=django)
-![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=VueJS)
+
 
 ### Databases:
 &emsp;
@@ -53,6 +60,7 @@ Perfil integral que combina conocimientos en ciencia política con habilidades e
 
 ### Learn:
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=VueJS)
 
 
 <br>
